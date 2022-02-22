@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>How the love of God is the true ground of hatred of sin</title>
+            <author>Baker, Richard, d. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29855</idno>
+            <idno type="STC">Wing B514B</idno>
+            <idno type="STC">ESTC R30750</idno>
+            <idno type="EEBO-CITATION">11467141</idno>
+            <idno type="OCLC">ocm 11467141</idno>
+            <idno type="VID">47779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1453:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>How the love of God is the true ground of hatred of sin</title>
+                  <author>Baker, Richard, d. 1697.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>166-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Richard Baker.</note>
+                  <note>Signed at end : R.B.</note>
+                  <note>Imprint supplied by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin.</term>
+               <term>God --  Worship and love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47779:1" rendition="simple:additions"/>
+            <head>How the love of God is the true ground of hatred of ſin.</head>
+            <p>NO man can hate ſin in the ground thereof (as <hi>it is of<g ref="char:EOLhyphen"/>fence to Gods Spirit</hi>) but in the love of God; yet there may be and is hatred of ſin <hi>(that is Juſtifiable,)</hi> before the love of God is known, and felt, and dwelt in, and that manner of hatred of ſin came up under the Law, and ſtands under the ſame <hi>(to wit, the Law-without;)</hi> where men may read ſuch and ſuch things were ſin and offence to the Spi<g ref="char:EOLhyphen"/>rit of God, and ſo believe what others have ſaid thereof, and never come to the Spirit of God in their own hearts and particulars, that the offence and ſin is againſt, and the love of that may be ignorant of: for that which is ſin and offence to the Spirit of God, is alſo an offence and burden to, and on the creature and creation of God (in which this Spirit dwels, and is to be manifeſted in the Image, and Authority, and Dominion of God <hi>placed in his creature:</hi>)</p>
+            <p>And as <hi>No man can ſerve two maſters, but he will hate the one and love the other, or cleave to the one and deſpiſe the other:</hi> So is it in this particular of ſervitude; that though ſin would be a maſter, yet the truth being received in the love thereof, and God obeyed in the heart and mind of the ſoul; he that is Lord in the Members, and therein hath a Law (warring againſt the mind and its Law,) is hated in that mind, and warred againſt by the man (that poſſeſſeth the whole frame,) though it may be a thorn in the fleſh, and may have power to buffet, to ſhew the creature his weakneſſe, and that he may not be exalted above meaſure: But where ſin is loved in the heart, though the truth may be received (in that man,) yet it is held but in the unrighteous part, and the prayer is not heard, becauſe of a regard to iniquity therein, but the ſubjection to God (in that ſtate) is but for wraths ſake, and ſo a child of wrath and fury, and againſt ſuch is wrath revealed from Heaven; though that which leads into an extream in the paſſionate part (againſt that in others which is Lord at home, and which they ſeek to rule by as they are ruled) is as rea<g ref="char:EOLhyphen"/>dy to lead out into the affectionate part (in any extream ſelf may therein be pleaſed, and rule as Lord:)</p>
+            <p>And this is a ſtate under the Law, in which the woman would rule, and that which defileth uſurp Authority, the feet abiding not
+<pb facs="tcp:47779:2"/>at home, nor the houſe kept in good order, but a tatling abroad, and the buſie body becomes the complainer, and all is in a hurry, and a continual brawling, that the man gets to the top of the houſe, and nothing of the husbands advice is took, neither is he learned of; though the creature may be learned to cry out againſt that which others hath declared to be ſin and evill, and may have a creaturely wiſdom to diſcourſe the offence to the Spirit of God (as ſo laid down by men,) but the more the creature is ſeen in this work, the leſs is God honoured, and ſelf the more ſet up and exalted:</p>
+            <p>Therefore that this woman may know her place and ſtate, it would be good for her to know ſhe is under the Law of her husband (as long as he liveth,) and let her ſhew him love by obedience (that is better than ſacrifice,) that ſhe pretends relation to, leaſt he be yet found alive, that gave the bill of divorce (becauſe of the hardneſſe of thy heart;) and thou not free to be married to this other, even Chriſt; free from the Law of her firſt husband; for <hi>The froward ſhall not dwell in the houſe for ever, neither ſhall the complainer inherit good, but a bond-ſlave ſhall be their Lord, and they both ſhall poſſeſſe trouble:</hi> And ſhe to hate that which he controles, is the fulfilling of the Law, and a ſubjection that anſwers the ſtate of a Prophet in God, the ſpirit of the Prophets being the informer, until the creatures own be ſubjected in ſuch a ſtate.</p>
+            <p>For which cauſe this Leſſon (of the love of God) is worthy to be heeded and learned by all profeſſors and profeſſions, and ſubmiſſion, and ſubjection to the will of God, (under all tryals,) that hath pati<g ref="char:EOLhyphen"/>ence for its rule, and fo: bearance for the ſhoulders, on which the work thereof is laid and built, that honour and reſpect the work and creature therein (in the Lord;) in that though <hi>it is</hi> become an eaſie thing to get words of truth, yet no man knows the mind thereof, but by its ſpirit, and who is in the life of its love: but whoever is in the enmity and hatred of the creatures life, are in the enmity and ha<g ref="char:EOLhyphen"/>tred of God, and againſt his Spirit, becauſe Gods life is in his crea<g ref="char:EOLhyphen"/>ture (in whom they live, move, and have their being,) and therein he determined to rejoyce and delight; and where this love and delight dwels, it is manifeſted to the world (by their loving their brother they ſee, without which God could not be ſeen or known;) for it is the love of God in the heart that flows forth into the world (in charity and every good work,) but where is envying, and ſtrife, and malice, and every evil work, the wrath of God abideth and reſteth (on and in that ſoul) and how then can the love of God be known that
+<pb facs="tcp:47779:2"/>is thereby crucified and over-powred, and the delight over-born, by the worldly ſorrow and diſcontent of ſpirit that works death?)</p>
+            <p>In theſe particulars is weight to the ſerious hearted, that have known and endured the wrath, anger, and hatred of God (in the re<g ref="char:EOLhyphen"/>ſurrection of the witneſſe and teſtimony of his ſpirit, that firſt made againſt them) in the angry, wrathful nature of enmity and hatred againſt his Spirit, and its leading and guidance, in which all things come forth in fury and full of rage, and not in the winning overcom<g ref="char:EOLhyphen"/>ing power of God, though ſervice for, and to God (in reference to the ſubjection of what is in his way) may be, and is, in ſuch a ſtate, until liberty and freedome to Gods Spirit, be come up and known in the earth; for it ſubjects the one, for the enlargement of the other:</p>
+            <p>Now when the Houſe of God was defiled, the wrath and anger of God was kindled and inflamed againſt the Inhabitants (the Inhabi<g ref="char:EOLhyphen"/>tants of the Earth,) and the buſh burnt and was not conſumed (the vi<g ref="char:EOLhyphen"/>ſion of which appeared in, and to <hi>Moſes,</hi> that could dwell in the judgment of God, and endure his wrath and anger againſt what it was then kindled (for the Seeds enlargement;) but <hi>Pharoah</hi> by whom it was kept in bondage, and whoſe life ſtood in the cauſe and ground thereof, could not endure it, but was conſumed and overthrown thereby; yet the perfection of the work of God (at that day) ſtood afar off the underſtanding of man: the ſubſtance of what did then in bon<g ref="char:EOLhyphen"/>dage or was inbondaged, being in the two Seeds; it being for the ſake of his creature (in which his own Seed and Spirit of truth had place) that he ſuffered the oppreſſures, and hard burdens, and yoaks that reſteth on his Seed, in which <hi>Pharaoh</hi> magnified himſelf, untill God ſaw how to get himſelf a name in his deſtruction, that fitted the veſſel, for that very end the Lord raiſed him up (even for the ma<g ref="char:EOLhyphen"/>king known his power in, and on,) for the veſſels were in his hand, as is the clay in the hand of the Potter, which he might make for what uſe he pleaſed, and according to the pleaſure or diſpleaſure of his Spirit (that acted the man that had his own mind and ſpirit that poſſeſſed the veſſel,) was the uſe of the veſſel honourable or diſho<g ref="char:EOLhyphen"/>nourable, and raiſed up to the ſame end his power was made known by, and in, he taking pleaſure where his Spirit reſted (that as the Sun ſhined on the bad, as well as good, and as the wind blowed where it liſted, and no man knows whence it comes, or whither it ſhall re<g ref="char:EOLhyphen"/>turn,) that returned from <hi>Pharoah</hi> finding no reſt, whereby the veſ<g ref="char:EOLhyphen"/>ſel was ſo fitted (that of neceſſity) muſt honour and magnifie the power of the Creator,) that created all things to, and for his own
+<pb facs="tcp:47779:3"/>praiſe and glory, though it had been implyed in that which was, and is, to the diſhonour of his Spirit, that ſo created it (in reference to its freedom and liberty).</p>
+            <p>And this Gods diſpleaſure, anger and wrath, hath reſted and doth reſt on ſeveral conditions of the creature, which they ſubmitting to, and laying down under, comes to witneſſe a change by, and in ſuch conditions: but if they continue in that the anger, wrath, and fury is to, they grow, and come forth creatures filled with fury, wrath and anger, which clouds the glory of the ſecond, and more cleer ad<g ref="char:EOLhyphen"/>miniſtration of God, even that of love and ſalvation (that exceeds the firſt in glory;) and this is a great miſtery in the world, to con<g ref="char:EOLhyphen"/>tinue and dwell in the love of God, and know its wound (to wound and deſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy that which hath wounded and ſlew the ſoul; and ſo to come forth in the healing and ſaving Spirit of God, that is the cauſe and ground of deſtruction (at the root) to the Devils Kingdom of ſin; for nothing can reach the root of ſin, and offence to the Spirit of God, but a Judgment well informed by, &amp; in the Spirit of God (faith therein works by the love of) that thereby comes forth in the vi<g ref="char:EOLhyphen"/>ctory of the creatures faith; Therefore let all that read me, come into the love of the Spirit of God, and truth of its diſcovery in their own hearts, that that may grow (in every particular) which diſcovers what the ſin and offence is to at home, and no longer depend on Judgment without, and ſet up any mans Judgement and Opinion (in a caſe of controverſie) that one man may Lord it over the Conſcience of another, but come out of the controverſie, and let he that is Lord only, of, and over the Conſcience, take place, and ſee that true Judg<g ref="char:EOLhyphen"/>ment be ſet up at home, (within in the heart;) that can only diſtin<g ref="char:EOLhyphen"/>guiſh for God (there) and all the reſt will ſoon ceaſe, and the ſtrife about things under a Law without will be ended, and the Covenant felt that puts an end to that without (of works,) and brings in the grace and favour of God, which reacheth to deny all ungodlineſs and worldly luſts, the everlaſting Covenant of righteouſneſs in the heart, and that of the garments and out-ſide coverings, ſhall not be the ground of diſtinction (in Judgement,) that can be but according to the appearance, but the naked and unvailed heart ſhall be Gods witneſs, and no ſelf ſeparation will be able to darken this glory, but Power endleſs is on their head, and Majeſty is the garment of their cloathing, that are hid in the ſtorm of the day, and covered from the fury and rage of unreaſonable men; praiſes endleſſe to God for this great work.</p>
+            <closer>
+               <signed>R. B.</signed>
+            </closer>
+            <pb facs="tcp:47779:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
